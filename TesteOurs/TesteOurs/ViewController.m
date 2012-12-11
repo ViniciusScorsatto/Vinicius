@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSString *teste=@"Teste";
+    NSString *teste1=@"Teste1";
 }
 
 - (void)didReceiveMemoryWarning
